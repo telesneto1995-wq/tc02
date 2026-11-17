@@ -1,0 +1,6 @@
+{
+  "name": "Thiago Correia (TC) — Locação de Máquinas & Construtora",
+  "description": "Thiago Correia (TC) — Locação de máquinas pesadas, terraplanagem e construtora em Milagres - Bahia. Trabalho forte, resultado certo!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
